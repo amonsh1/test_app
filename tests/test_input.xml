@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<people>
+  <person full_name="user0">
+    <start>12-12-2007 00:00:00</start>
+    <end>12-12-2007 01:00:00</end>
+  </person>
+  <person full_name="user0">
+    <start>13-12-2007 00:00:00</start>
+    <end>13-12-2007 01:00:00</end>
+  </person>
+  <person full_name="user1">
+    <start>12-12-2007 00:00:00</start>
+    <end>12-12-2007 01:00:00</end>
+  </person>
+  <person full_name="user1">
+    <start>13-12-2007 00:00:00</start>
+    <end>13-12-2007 01:00:00</end>
+  </person>
+</people>

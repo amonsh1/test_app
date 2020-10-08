@@ -1,0 +1,25 @@
+# Python related ignores
+__pycache__
+*.egg-info/
+dist
+build
+.cache
+*.pyc
+pip-wheel-metadata
+
+# Tools related ignores
+.env
+.coverage
+htmlcov
+coverage.xml
+pytest.xml
+venv
+.venv
+.tox
+*.log
+
+# IDE
+*.sublime-*
+*.iml
+.vscode
+.idea
